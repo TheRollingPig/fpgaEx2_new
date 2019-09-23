@@ -1,0 +1,5 @@
+another version of this exercise, including
+  APB_UART实验要求
+  apb_biu.v
+  apb_uart_defs.v
+  tbench.v
